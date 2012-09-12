@@ -2,3 +2,15 @@
 *.pot
 *.pyc
 local_settings.py
+
+.projec
+env/
+env/*
+
+.project
+
+.pydevproject
+
+.DS_Store
+
+energy.sqlite
