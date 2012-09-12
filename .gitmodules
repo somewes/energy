@@ -1,0 +1,3 @@
+[submodule "project/redokes"]
+	path = project/redokes
+	url = git@github.com:wesokes/redokes-api-django.git

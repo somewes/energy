@@ -117,6 +117,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django.contrib.admin',
     'energy',
+    'redokes',
 #     'django.contrib.admindocs',
 )
 
