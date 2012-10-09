@@ -1,0 +1,11 @@
+# Internal Packages
+/projects/django/redokes-api-django/Redokes/dist/Redokes-0.1.tar.gz
+
+# Internally Hosted Public Packages
+
+# External (Wild) Packages
+pycurl
+django
+django-extensions
+Werkzeug
+psycopg2
