@@ -12,6 +12,5 @@ class MeterReadingApi(Crud):
         self.form_class = None
         self.access_module = None
         self.access_model = None
-		#test commit
     
     
